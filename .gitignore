@@ -1,0 +1,6 @@
+venv/
+../UNISAT/data/wallet_info.json
+../UNISAT/data/proxies.txt
+../UNISAT/config/settings.py
+../UNISAT/logs/recent_logs.log
+helpers/bitcoin_message_tool.py
